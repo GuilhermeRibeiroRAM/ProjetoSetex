@@ -1,0 +1,1 @@
+ALTER TABLE "machine-hardware" RENAME COLUMN "sensorCode" TO "sensorIdentifier";

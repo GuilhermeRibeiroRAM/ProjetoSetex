@@ -1,0 +1,1 @@
+ALTER TABLE "machine-hardware" ADD COLUMN "velocity" double precision;

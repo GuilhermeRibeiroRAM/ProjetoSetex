@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "created_at" date DEFAULT '2024-10-30T19:55:18.507Z';
